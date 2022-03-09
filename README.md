@@ -1,15 +1,15 @@
     {
       "id": "acct_1KRzMTQnhlqWjNHq",
       "object": "account",
-      "business_profile": {
+      "business_profile": {DRAGON T.i.w
       "mcc": null,
-    "name": null,
-    "product_description": null,
-    "support_address": null,
-    "support_email": null,
-    "support_phone": null,
-    "support_url": null,
-    "url": null
+    "name": WAH SENG LOW ,
+    "product_description": TATTOO &,
+    "support_address": 33 cabernet cres bundoora 3083 vic ,
+    "support_email": KACANG13140@GMAIL.COM,
+    "support_phone":+61414548113,
+    "support_url":HTTPS://DRAGONTATTOOINWORLD.COM.AU,
+    "url": https://Dragontattooinworld.com.au
     },
     "business_type": "individual",
     "can_unset_representative": true,
@@ -25,18 +25,18 @@
     "sofort_payments": "inactive"
     },
      "charges_enabled": false,
-     "company": {
-    "address": {
-      "city": null,
+     "company": {DRAGON TATTOO IN WORLD 
+    "address": { 694 DONCASTER ROAD
+      "city": VIC,
       "country": "AU",
       "line1": null,
       "line2": null,
-      "postal_code": null,
-      "state": null
+      "postal_code": 3108,
+      "state": DONCASTER
     },
     "directors_provided": true,
     "executives_provided": true,
-    "name": null,
+    "name": Wah seng LOw,
     "owners_provided": true,
     "tax_id_provided": false,
     "verification": {
@@ -52,8 +52,8 @@
     }
     },
     "connected_on": 1644586834,
-    "controller": {
-    "application": {
+    "controller": { true
+    "application": { APPLICATION
       "loss_liable": true,
       "pricing_controls": true
     },
@@ -68,7 +68,7 @@
      "default_account_holder_name": "SUPER PLASTER",
      "default_currency": "aud",
      "details_submitted": false,
-     "email": null,
+     "email": kacang13140@gmail.com,
      "email_confirmed": false,
      "external_account_changes_disabled": false,
      "external_accounts": {
